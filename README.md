@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moussa-imed&label=Profile%20views&color=0e75b6&style=flat" alt="moussa-imed" /> </p>
 
-- 🔭 I’m currently working on **A Operation Research project to apply metaheuristic techniques for optimizing the Traveling Salesman Problem.**
+- 🔭 I’m currently working on **A Operational Research project to apply metaheuristic techniques for optimizing the Traveling Salesman Problem.**
 
 - 📫 How to reach me **imed.moussa@ept.ucar.tn**
 
