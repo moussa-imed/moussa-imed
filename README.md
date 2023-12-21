@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moussa Imed</h1>
+<h1 align="center">Hi 👋, I'm Imed Moussa</h1>
 <h3 align="center">A enthusiastic multidisciplinary engineering student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moussa-imed&label=Profile%20views&color=0e75b6&style=flat" alt="moussa-imed" /> </p>
